@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/aravindanath/TeslaEV" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/prakashMG/TestRepositoryForPython.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Learning\Python\Besant Tech" />
+    <option name="cloneParentDir" value="C:\Learning" />
   </component>
 </application>
