@@ -5,7 +5,7 @@ executable_path = "C:\Python\chromedriver.exe"
 #driver = Chrome(executable_path=executable_path)
 
 chrome_options = ChromeOptions()
-chrome_options.add_argument("--headless")
+#chrome_options.add_argument("--headless")
 driver = Chrome(executable_path=executable_path, chrome_options=chrome_options)
 
 

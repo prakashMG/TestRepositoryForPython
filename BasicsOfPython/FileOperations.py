@@ -22,3 +22,19 @@ emp_file.close()
 
 def roll_dice(num):
     return random.randint(1,num)
+
+print("the dice value is "+ str(roll_dice(6)))
+
+my_list=[10,20,30]
+my_file=open("EmployeeList.txt", "a")
+
+for item in my_list:
+    my_file.write("\n"+str(item))
+
+my_file.close()
+
+
+my_file=open("EmployeeList.txt", "a")
+
+
+my_file.close()
